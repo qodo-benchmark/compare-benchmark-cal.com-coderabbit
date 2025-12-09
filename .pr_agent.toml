@@ -1,2 +1,2 @@
 [config]
-ignore_repositories = ["qodo-benchmark/compare-benchmark-cal.com-coderabbit"]
+ignore_repositories = ["qodo-benchmark/compare-benchmark-cal.com-coderabbit", "qodo-benchmark/compare-benchmark-cal.com-greptile"]
